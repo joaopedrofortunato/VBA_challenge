@@ -2,11 +2,11 @@
 UC Berkeley Data Analytics Bootcamp Module 2 Challenge
 --
 This is the solution:
--
 
 Sub Module_2_JPF_Solved_Final_Version()
 
 '  Enable script to run on every worksheet at once
+
 For Each ws In Worksheets
 
     Dim TotalRecords As Double
